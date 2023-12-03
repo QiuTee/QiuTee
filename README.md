@@ -17,6 +17,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qiutee&show_icons=true&locale=en" alt="qiutee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qiutee&show_icons=true&locale=en" alt="qiutee" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qiutee&" alt="qiutee" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qiutee&" alt="qiutee" /></p>
