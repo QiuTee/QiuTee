@@ -3,17 +3,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qiutee&label=Profile%20views&color=0e75b6&style=flat" alt="qiutee" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 ### 📊 GitHub Profile Stats
-
 <p align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qiutee&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiutee&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QiuTee&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QiuTee&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   <br />
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 <br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qiutee&show_icons=true&locale=en" alt="qiutee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qiutee&" alt="qiutee" /></p>
 <h3 align="left">Languages and Tools:</h3>
