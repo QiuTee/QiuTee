@@ -8,22 +8,26 @@
 
 - 🌎 I'm base in **_Ho Chi Minh City_** 
 - 🏫 I'm studying  **_Data Science_** at **_Swinburne University_**
-- 🏆 I usually work with **_JavaScript and PHP language_**
-- 📫 Ask me anything you want [**here**](https://github.com/QiuTee/MinMinis/issues), If I were alive, I would reply within a day 😉
-- 😄 Fun fact: I am always trying to learn new things and test it. (Especially with security knowledge)
+- 🏆 I'm currently learning everything 
+- 📫 Ask me anything you want [**here**](https://github.com/QiuTee/QiuTee/issues), If I were alive, I would reply within a day 😉
+- 😄 Fun fact: I really like algorithm even though I feel it is very difficult for me
 <br>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### 📊 GitHub Profile Stats
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QiuTee&show_icons=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QiuTee&layout=compact&langs_count=8&theme=great-gatsby&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-</div>
+  <br />
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<br><br>
 
 ## 🔥 Streak Stats
-<p style="text-align: center;">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QiuTee&theme=great-gatsby&hide_border=true" alt="qiutee" />
 </p>
 <h3 align="left">Languages and Tools:</h3>
