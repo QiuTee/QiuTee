@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://unsplash.com/s/photos/coding-banner)
+![alt text](./images/banner.png)
 <h1 align="center">Hi 👋, I'm Thang</h1>
 <h3 align="center">Computer Science Student</h3>
 <p align="center"><i>Quote: "Learn, learn more, learn forever"</i><p>
