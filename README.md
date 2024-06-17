@@ -7,7 +7,7 @@
 ### <img src="./images/stats.gif" width="30px">**_About me_**
 
 - 🌎 I'm base in **_Ho Chi Minh City_** 
-- 🏫 I'm studying  **_Data Science_** at **_Swinburne University_**
+- 🏫 I'm studying  **_Software Development_** at **_Swinburne University_**
 - 🏆 I'm currently learning everything 
 - 📫 Ask me anything you want [**here**](https://github.com/QiuTee/QiuTee/issues), If I were alive, I would reply within a day 😉
 - 😄 Fun fact: I really like algorithm even though I feel it is very difficult for me
